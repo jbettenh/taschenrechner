@@ -1,5 +1,3 @@
-Copyright (c) 2011-2016 GitHub Inc.
-
 MIT License
 
 Copyright (c) 2017 Joseph F. Bettenhausen
